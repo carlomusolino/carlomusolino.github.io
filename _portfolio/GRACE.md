@@ -4,7 +4,7 @@ excerpt: "GRACE is a GPU-accelerated solver for the general-relativistic hydrody
 collection: portfolio
 ---
 
-GRACE, a GPU-accelerated framework for numerical relativistic simulations
+A GPU-accelerated framework for numerical relativistic simulations
 =======
 
 **GRACE** (GPU-accelerated Relativistic Astrophysics Code Engine) is a next-generation simulation framework for solving the equations of general-relativistic hydrodynamics (GRHD) on modern massively parallel architectures. It is designed from the ground up to leverage GPU acceleration, enabling high-resolution, long-timescale simulations critical for modeling binary neutron star mergers, relativistic outflows, and other multi-messenger astrophysics scenarios.

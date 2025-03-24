@@ -13,11 +13,4 @@ My research focuses on the physics of compact stars, with a particular emphasis 
 
 I'm especially interested in the post-merger phase of neutron star collisions and how advanced microphysics can shape observable signals such as short gamma-ray bursts and kilonovae. I’m also the lead developer of **GRACE**, a GPU-accelerated simulation framework for relativistic astrophysics.
 
-You can learn more about my work by exploring the links above:
-
-- [CV](/cv/)
-- [Publications](/publications/)
-- [Projects](/projects/)
-- [Talks](/talks/)
-
 Feel free to get in touch if you'd like to collaborate or have questions about my research.
