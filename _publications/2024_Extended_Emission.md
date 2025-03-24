@@ -3,7 +3,7 @@ title: "''Extended Emission'' from Fallback Accretion onto Merger Remnants"
 collection: publications
 category: manuscripts
 permalink: /publication/2024_Extended_Emission
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+excerpt: 'sing a set of general-relativistic magnetohydrodynamics simulations that include proper neutrino transfer, we propose a model for Extended Emission associated with short gamma-ray bursts'
 date: 2024-05-01
 venue: 'Astrophys. J. Let..'
 slidesurl: #'http://academicpages.github.io/files/slides1.pdf'
@@ -11,7 +11,7 @@ paperurl: '10.3847/2041-8213/ad3bb3'
 citation: 'Musolino, C., Duqué, R. and Rezzolla, L. &quot;''Extended Emission'' from Fallback Accretion onto Merger Remnants&quot; <i>Astrophys. J. Lett.</i>. 966(2) L31 (2024).'
 ---
 
-![Visual representation of extended emission toy model](../images/cartoon_n.pdf)
+![Visual representation of extended emission toy model](/images/cartoon_n-1.png)
 
 Using a set of general-relativistic magnetohydrodynamics simulations
   that include proper neutrino transfer, we assess for the first time
