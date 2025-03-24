@@ -3,7 +3,7 @@ title: "''Extended Emission'' from Fallback Accretion onto Merger Remnants"
 collection: publications
 category: manuscripts
 permalink: /publication/2024-05_Extended_Emission
-excerpt: 'sing a set of general-relativistic magnetohydrodynamics simulations that include proper neutrino transfer, we propose a model for Extended Emission associated with short gamma-ray bursts'
+excerpt: 'Using a set of general-relativistic magnetohydrodynamics simulations that include proper neutrino transfer, we propose a model for Extended Emission associated with short gamma-ray bursts.'
 date: 2024-05-01
 venue: 'Astrophys. J. Let..'
 slidesurl: #'http://academicpages.github.io/files/slides1.pdf'
