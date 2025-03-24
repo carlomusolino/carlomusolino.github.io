@@ -11,14 +11,16 @@ paperurl: '10.3847/2041-8213/ad3bb3'
 citation: 'Musolino, C., Duqué, R. and Rezzolla, L. &quot;''Extended Emission'' from Fallback Accretion onto Merger Remnants&quot; <i>Astrophys. J. Lett.</i>. 966(2) L31 (2024).'
 ---
 
+![Visual representation of extended emission toy model](../images/cartoon_n.pdf)
+
 Using a set of general-relativistic magnetohydrodynamics simulations
   that include proper neutrino transfer, we assess for the first time
   the role played by the fallback accretion onto the remnant from a
   binary neutron-star merger over a timescale of hundreds of
   seconds. In particular, we find that, independently of the equation
   of state, the properties of the binary, and the fate of the remnant,
-  the fallback material reaches a total mass of $\gtrsim
-  10^{-3}\,M_\odot$, \ie about 50\% of the unbound matter, and that
+  the fallback material reaches a total mass of \\(\gtrsim
+  10^{-3}\,M_\odot\\), \ie about 50\% of the unbound matter, and that
   the fallback accretion rate follows a power-law in time with slope
   \\(\sim t^{-5/3}\\). Interestingly, the timescale of the fallback and
   the corresponding accretion luminosity are in good agreement with
