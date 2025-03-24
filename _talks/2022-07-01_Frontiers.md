@@ -4,7 +4,7 @@ collection: talks
 type: "Tutorial"
 permalink: /talks/2022-07_Frontiers
 venue: "University of Jena"
-date: 07-2022
+date: 2022-07-28
 location: "Jena, Germany"
 ---
 
