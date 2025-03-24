@@ -2,7 +2,7 @@
 title: "On the impact of neutrinos on the launching of relativistic jets from ``magnetars'' produced in neutron-star mergers"
 collection: publications
 category: manuscripts
-permalink: /publication/2024_magn_winds
+permalink: /publication/2024-10_magn_winds
 excerpt: 'We investigate the launching mechanism and the properties of magnetized winds resulting from the merger of low-mass BNS systems.'
 date: 2024-02-06
 venue: 'ArXiv'
